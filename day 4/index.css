@@ -1,0 +1,58 @@
+.title{
+    color: chartreuse;
+    background-size: cover;
+}
+#welcom {
+    background-color: black;
+    background-size: cover;
+
+}
+#html{
+    background-color: red 
+
+}
+.heading{
+    font-size: small;
+    background-color: brown;
+    background-size: cover;
+}
+.box{
+    height: 500px;
+    width: 500px;
+    background-color: brown;
+}
+.sub-box{
+    height: 250px;
+    width: 250px;
+    background-color: blue;
+    padding: 20px; 
+    border: 10px solid gray;
+}
+.container{
+    width: 100%;
+    height: 100%;
+    background-color: blue;
+    position: relative;
+}
+.box{
+    width: 150px;
+    height: 150px;
+    border: 4px solid black;
+}
+.box-1
+{
+    background-color: blanchedalmond;
+}
+.box-2
+{
+    background-color: blueviolet;
+}
+.box-4
+{
+    background-color: black;
+}
+.box5
+{
+    background-color: chartreuse;
+    top: 0;
+}
